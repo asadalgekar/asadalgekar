@@ -2,7 +2,7 @@
 
 **`Software Engineer and Full Stack Developer`**
 
-I'm an a passionate full stack developer who loves to build web apps from scratch, from planning and designing all the way to solving real-life problems with code. I'm a recent graduate with a degree in Computer Science, and I'm eager to learn and contribute to the tech industry by applying my skills and knowledge to create innovative solutions and contribute to the tech community. 
+I'm an a passionate full stack developer who loves to build web apps from scratch, from planning and designing all the way to solving real-life problems with code. I'm a recent graduate with a degree in Computer Science, and I'm eager to learn and contribute to the tech industry by applying my skills and knowledge to create innovative solutions.
 
 I'm open to new opportunities and collaborations, so feel free to reach out to me!
 
