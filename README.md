@@ -7,9 +7,12 @@ I'm an a passionate full stack developer who loves to build web apps from scratc
 I'm open to new opportunities and collaborations, so feel free to reach out to me!
 
 ### 🔗 &nbsp;**Connect with me**
-   <p align="left">
-    <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AkshaySadalgekar" height="30" width="40" /></a>
-   </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/akshay-sadalgekar" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AkshaySadalgekar" height="30" width="40" />
+  </a>
+</p>
+
 
 
 
