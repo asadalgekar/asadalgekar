@@ -32,5 +32,5 @@ I'm open to new opportunities and collaborations, so feel free to reach out to m
 
 ### 📊 Stats
 
-![Akshay Sadalgekar's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaysadalgekar03&show_icons=true&theme=gruvbox)
+![Akshay Sadalgekar's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadalgekar&show_icons=true&theme=gruvbox)
 
