@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Akshay Sadalgekar</h1>
+<h1 align="left">Hello 👋, I'm Akshay Sadalgekar</h1>
 
 **`Software Engineer and Full Stack Developer`**
 
